@@ -28,11 +28,11 @@ This project is a classic Tic-Tac-Toe game developed in C++. Two players can pla
 3. Enter a number between 1 and 9 to mark a position.
    - Positions are labeled from 1 to 9 as shown below:
      ```
-      1 | 2 | 3
+       1 | 2 | 3
      ----|---|----
-      4 | 5 | 6
+       4 | 5 | 6
      ----|---|----
-      7 | 8 | 9
+       7 | 8 | 9
      ```
 4. The first player to align three marks in a row, column, or diagonal wins.
 5. If all positions are filled without a winning combination, the game ends in a draw.
